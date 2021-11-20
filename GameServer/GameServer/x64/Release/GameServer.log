@@ -1,0 +1,8 @@
+﻿  SqlDatabase.cpp
+  Generating code
+C:\Users\Loi\Desktop\Game\GameServer\GameServer\SqlDatabase.cpp(191): warning C4715: 'SqlDatabase::check_Infor': not all control paths return a value
+  1 of 206 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameServer.vcxproj -> C:\Users\Loi\Desktop\Game\GameServer\x64\Release\GameServer.exe

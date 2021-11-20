@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "425c23d2-a28e-4e7e-9fd0-c1e5ce6ebec8": {
+      "ProjectGuid": "425c23d2-a28e-4e7e-9fd0-c1e5ce6ebec8",
+      "DisplayName": "PlayCaroGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

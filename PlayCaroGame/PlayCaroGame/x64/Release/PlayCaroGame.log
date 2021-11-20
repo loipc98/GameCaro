@@ -1,0 +1,17 @@
+﻿  ChessTable.cpp
+  Internet.cpp
+C:\Users\Loi\Desktop\Game\PlayCaroGame\PlayCaroGame\Internet.cpp(5,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  MenuControl.cpp
+  MenuView.cpp
+C:\Users\Loi\Desktop\Game\PlayCaroGame\PlayCaroGame\MenuView.cpp(141,6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Loi\Desktop\Game\PlayCaroGame\PlayCaroGame\MenuView.cpp(162,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Loi\Desktop\Game\PlayCaroGame\PlayCaroGame\MenuView.cpp(169,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Loi\Desktop\Game\PlayCaroGame\PlayCaroGame\MenuView.cpp(178,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+  Win.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 317 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PlayCaroGame.vcxproj -> C:\Users\Loi\Desktop\Game\PlayCaroGame\x64\Release\PlayCaroGame.exe
